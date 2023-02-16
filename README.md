@@ -1,8 +1,12 @@
 ## Hi there 👋 
 
-I'm Front-end developer Hazel who primarily works with React and JavaScript! 
+- 🔭 I'm Front-end developer Hazel who primarily works with React and JavaScript! 
 
-I'm interested in web application development, constantly learning to write better code.
+- ⚡ I'm interested in web application development, constantly learning to write better code. 
+
+- 🐶 I am a fit and active dog lover who enjoys hiking and yoga and snorkeling. 
+
+- 🔥 I tend to become fully immersed in things that interest me.
  
 
 ## 💪Skills
