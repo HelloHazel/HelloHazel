@@ -2,13 +2,15 @@
  <a href="https://velog.io/@hazel_1130" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>  <a href="mailto:deaese94@gmail.com" target="_blank"><img src="https://img.shields.io/badge/deaese94@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
 
 
-- 🔭 웹 프로그래밍을 공부 중이며, 주요 기술 스택은 React와 JavaScript입니다. 현재 Flutter를 공부 중입니다.
+- 🔭 현재 헬스케어 관련 도메인에서 프론트엔드 개발자로 일하고 있으며, 주요 기술 스택은 React와 JavaScript입니다. 
  
 - ⚡ 새로운 기술을 배우고 사용하는 것을 좋아합니다.
 
 - 🐶 컴포넌트의 재사용성과 확장성에 대해 관심이 있습니다.
 
 - 🔥 다른 사람들과 협업하며 성장하는 것을 좋아합니다.
+ 
+- ✨ 현재 상태관리 라이브러리 Zustand 와 앱 프레임워크 Flutter를 공부 중입니다.
  
  
 
